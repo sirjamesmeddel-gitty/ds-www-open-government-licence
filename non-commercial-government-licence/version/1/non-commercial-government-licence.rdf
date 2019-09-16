@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:xhv="http://www.w3.org/1999/xhtml/vocab#"
+  xmlns:xml="http://www.w3.org/XML/1998/namespace">
+  <cc:License rdf:about="http://reference.data.gov.uk/id/non-commercial-government-licence">
+    <cc:prohibits rdf:resource="cc:CommercialUse"/>
+    <cc:requires rdf:resource="cc:Attribution"/>
+    <cc:requires rdf:resource="cc:Notice"/>
+    <cc:permits rdf:resource="cc:Reproduction"/>
+    <cc:permits rdf:resource="cc:Distribution"/>
+    <cc:permits rdf:resource="cc:DerivativeWorks"/>
+  </cc:License>
+</rdf:RDF>
+
